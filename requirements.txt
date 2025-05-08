@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+ollama
+python-dotenv
+pydantic
+requests
+pytest
+pydantic_settings
